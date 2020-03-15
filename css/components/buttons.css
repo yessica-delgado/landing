@@ -1,0 +1,15 @@
+.btn-cooltiva {
+  color: white;
+  border: 2px solid #F67575;
+  background-color: #F67575;
+  padding: 15px 25px;
+  border-radius: 50px;
+  margin: 15px;
+}
+
+.btn-cooltiva:hover {
+  background-color: #F46161;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 50px;
+}
